@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "fullName": "Hannah Hazelby",
+    "address": "12874 Huxley Plaza",
+    "phoneNumber": "874-243-6601",
+    "email": "hhazelby0@usgs.gov"
+  },
+  {
+    "id": 2,
+    "fullName": "Stace Osipov",
+    "address": "34 Upham Avenue",
+    "phoneNumber": "923-542-3157",
+    "email": "sosipov1@house.gov"
+  },
+  {
+    "id": 3,
+    "fullName": "Hildagarde McNysche",
+    "address": "28101 Randy Lane",
+    "phoneNumber": "554-752-2807",
+    "email": "hmcnysche2@1und1.de"
+  },
+  {
+    "id": 4,
+    "fullName": "Peder Teodoro",
+    "address": "782 Hovde Drive",
+    "phoneNumber": "779-846-2370",
+    "email": "pteodoro3@edublogs.org"
+  },
+  {
+    "id": 5,
+    "fullName": "Barret Fermor",
+    "address": "4120 Main Place",
+    "phoneNumber": "609-729-1346",
+    "email": "bfermor4@pbs.org"
+  },
+  {
+    "id": 6,
+    "fullName": "Francine Roocroft",
+    "address": "8718 Rieder Parkway",
+    "phoneNumber": "328-723-0268",
+    "email": "froocroft5@rakuten.co.jp"
+  },
+  {
+    "id": 7,
+    "fullName": "Trudi Dogerty",
+    "address": "15 Clove Trail",
+    "phoneNumber": "106-804-2322",
+    "email": "tdogerty6@free.fr"
+  },
+  {
+    "id": 8,
+    "fullName": "Fabian Dupree",
+    "address": "0 Ryan Road",
+    "phoneNumber": "195-401-2023",
+    "email": "fdupree7@narod.ru"
+  },
+  {
+    "id": 9,
+    "fullName": "Abel Wonfar",
+    "address": "5 Russell Point",
+    "phoneNumber": "802-784-9202",
+    "email": "awonfar8@ca.gov"
+  }
+]
